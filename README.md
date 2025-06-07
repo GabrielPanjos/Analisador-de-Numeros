@@ -30,4 +30,4 @@ Este projeto foi uma ótima prática de:
 
 ## 🧑‍💻 Autor
 
-Feito com ❤️ por Gabriel Pereira
+Feito por Gabriel Pereira
