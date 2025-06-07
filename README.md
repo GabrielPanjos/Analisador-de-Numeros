@@ -18,9 +18,6 @@ Este é um projeto simples feito com HTML, CSS e JavaScript que permite ao usuá
 1. Clone o repositório:
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-php-template
-Copiar
-Editar
 2. Abra o arquivo `index.html` em seu navegador.
 
 
